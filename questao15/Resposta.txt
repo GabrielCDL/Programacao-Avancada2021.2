@@ -1,6 +1,6 @@
 # include <stdlib.h>
 
-// Mecanismo que possibilitem medir tempos de execução de rotinas computacionais:
+// Utilizando a ideia do ponteiro para função pela função qsort():
 
 int check(const void *a, const void *b){ // Implementação de uma função para comparar os valores recebidos pelo vetor.
   return (*(int*)a - *(int *)b); // Função interna de qsort.
