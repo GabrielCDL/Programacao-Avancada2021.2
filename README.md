@@ -2,4 +2,4 @@
 Repositório para todos os arquivos da primeira unidade de Programação Avançada
 
 **Aluno:**
-Gabriel Cruz
+Gabriel Cruz de Lavor
