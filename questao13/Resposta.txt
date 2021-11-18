@@ -1,6 +1,6 @@
 # include <stdlib.h>
 
-//Função que lê n valores do tipo float e os apresente em ordem crescente.
+//Programa que lê n valores do tipo float e os apresente em ordem crescente.
 
 int main(){
   float *p1;
